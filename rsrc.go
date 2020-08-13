@@ -8,10 +8,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/akavel/rsrc/binutil"
-	"github.com/akavel/rsrc/coff"
-	"github.com/akavel/rsrc/internal"
-	"github.com/akavel/rsrc/rsrc"
+	"github.com/tc-hib/rsrc/binutil"
+	"github.com/tc-hib/rsrc/coff"
+	"github.com/tc-hib/rsrc/internal"
+	"github.com/tc-hib/rsrc/rsrc"
 )
 
 var usage = `USAGE:

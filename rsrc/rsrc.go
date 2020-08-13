@@ -7,10 +7,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/akavel/rsrc/binutil"
-	"github.com/akavel/rsrc/coff"
-	"github.com/akavel/rsrc/ico"
-	"github.com/akavel/rsrc/internal"
+	"github.com/tc-hib/rsrc/binutil"
+	"github.com/tc-hib/rsrc/coff"
+	"github.com/tc-hib/rsrc/ico"
+	"github.com/tc-hib/rsrc/internal"
 )
 
 // on storing icons, see: http://blogs.msdn.com/b/oldnewthing/archive/2012/07/20/10331787.aspx
