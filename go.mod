@@ -1,3 +1,3 @@
-module github.com/akavel/rsrc
+module github.com/tc-hib/rsrc
 
 go 1.12
